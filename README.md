@@ -1,5 +1,6 @@
 ## 📦 Projektstruktur
 
+```
 /weather-dashboard
 ├── backend/                  # Node.js + Express API
 │   ├── app.js                # Express-Konfiguration
@@ -36,6 +37,7 @@
 │
 ├── README.md                 # Projektbeschreibung & Setup
 └── .gitignore
+```
 
 ---
 
